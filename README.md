@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ronak 👋
 
-<!--
-**ronakjoshi06/ronakjoshi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Medicaps University
 
-Here are some ideas to get you started:
+💻 Skills:
+- Java
+- C++
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- Data Structures & Algorithms
+- Flutter
+
+🚀 Projects:
+- Web-Based Property Rental Platform
+- Kids Learning Mobile App (In Progress)
+
+🌱 Passionate about Software Development, Problem Solving, and Building User-Centric Applications
+
+📫 LinkedIn:
+linkedin.com/in/ronak-joshi-025314322/
